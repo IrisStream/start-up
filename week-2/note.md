@@ -59,3 +59,5 @@ Tìm trong lớp
 - Hoạt động ngoài khóa, team-building: 6 tháng/lần
 
 # Tài sản "mềm":
+- Môi trường làm việc vui vẻ, phát triển bản thân
+- Tổ chức team building, các hoạt động thể thao thường niên
